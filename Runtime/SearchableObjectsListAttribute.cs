@@ -1,6 +1,7 @@
-using DaBois.EditorUtilities;
-
-public class SearchableObjectsListAttribute : ObjectsListAttribute
+namespace DaBois.EditorUtilities
 {
-    public bool pingable;
+    public class SearchableObjectsListAttribute : ObjectsListAttribute
+    {
+        public bool pingable;
+    }
 }
