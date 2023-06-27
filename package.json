@@ -1,0 +1,23 @@
+{
+  "name": "com.dabois.referenceslist",
+  "version": "1.0.0",
+  "displayName": "References List",
+  "unity": "2022.0",
+  "description": "Allows you to pick a reference to  database item or list of options from a dropdown",
+  "keywords": [
+    "Utilities"
+  ],
+  "author": {
+    "name": "Miguel Torres",
+    "email": "mix0204@gmail.com",
+    "url": ""
+  },
+  "type": "library",
+  "samples": [
+    {
+      "displayName": "Example Usage",
+      "description": "Simple Scene and Script using the utility",
+      "path": "Samples~"
+    }
+  ]
+}
