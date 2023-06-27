@@ -2,7 +2,7 @@
   "name": "com.dabois.referenceslist",
   "version": "1.0.0",
   "displayName": "References List",
-  "unity": "2022.0",
+  "unity": "2021.1",
   "description": "Allows you to pick a reference to  database item or list of options from a dropdown",
   "keywords": [
     "Utilities"
